@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Select_Reseau_Wifi</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_example">Vue numero 2</string>
+    
+    <string name="username">Nom du réseau</string>
+    <string name="password">Mot de passe</string>
+    
+
+
+    
+    
+    
+	<string name="title_activity_main">Dialog Fragment Demo</string>
+	<string name="show_me">Show me the dialog!</string>
+	<string name="dlg_title">A Sample Dialog</string>
+	<string name="toast">Name: %1$s / Value: %2$s</string>
+	<string name="goodbye">Goodbye!</string>
+	<string name="back">You pressed BACK!</string>
+	<string name="display_name">Display Name:</string>
+	<string name="value">Value:</string>
+	
+
+</resources>
