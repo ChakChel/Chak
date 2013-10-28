@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_TCP_Reception</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send_button">Envoyer</string>
+    <string name="welcome_message">Bienvenue dans le programme de test.\nVeuillez appuyer sur le bouton ci-dessous.</string>
+    <string name="received_message">Voici le message envoye par le serveur recu par cette app : </string>
+
+</resources>
