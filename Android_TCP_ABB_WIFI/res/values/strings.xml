@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_TCP_ABB_WIFI</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send_button">Envoyer</string>
+    <string name="welcome_message">Bienvenue dans le programme de test.\nVeuillez appuyer sur le bouton ci-dessous.</string>
+    <string name="received_message">Voici le message envoye par le serveur recu par cette app : </string>
+    <string name="data_out_n_str">N : </string>
+    <string name="data_out_v_str">V : </string>
+    
+    <string name="title_example">Vue numero 2</string>
+    
+    <string name="username">Nom du réseau</string>
+    <string name="password">Mot de passe</string>
+    
+
+    
+	<string name="title_activity_main">Dialog Fragment Demo</string>
+	<string name="show_me">Show me the dialog!</string>
+	<string name="dlg_title">A Sample Dialog</string>
+	<string name="toast">Name: %1$s / Value: %2$s</string>
+	<string name="goodbye">Goodbye!</string>
+	<string name="back">You pressed BACK!</string>
+	<string name="display_name">Display Name:</string>
+	<string name="value">Value:</string>
+    
+
+</resources>
