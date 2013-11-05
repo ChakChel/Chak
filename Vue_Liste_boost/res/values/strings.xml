@@ -1,0 +1,8 @@
+<resources>
+
+	<string name="app_name">Vue_Liste_Boost</string>
+	<string name="title_activity_main">Vue_Liste_Boost</string>
+	<string name="item">Page %d</string>
+	<string name="action_settings">Vue_Liste_Boost</string>
+
+</resources>

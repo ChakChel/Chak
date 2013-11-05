@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bacabs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send_button">Envoyer</string>
+    
+    <string name="title_example">Bacabs</string>
+   	<string name="username">Nom du réseau</string>
+    <string name="password">Mot de passe</string>
+	<string name="title_activity_main">Ixchell Client</string>
+	<string name="show_me">Show me the dialog!</string>
+	<string name="dlg_title">A Sample Dialog</string>
+	<string name="toast">Name: %1$s / Value: %2$s</string>
+	<string name="goodbye">Goodbye!</string>
+	<string name="back">You pressed BACK!</string>
+	<string name="display_name">Display Name:</string>
+	<string name="value">Value:</string>
+    
+	
+	<string name="item">Page %d</string>
+	<string name="About">Ixchell Intelligent Systems\nCopyright all rights reserved\nThomas JEANNES\nMouhamadi ABDULLATIF</string>
+	
+
+</resources>
